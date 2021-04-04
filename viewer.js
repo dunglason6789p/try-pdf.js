@@ -206,7 +206,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "../build/pdf.worker.js",
+    value: "./pdf.worker.js",
     kind: OptionKind.WORKER
   }
 };
